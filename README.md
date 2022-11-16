@@ -8,3 +8,4 @@
 |Assignment 3|[Link](https://github.com/tanmayvaij/dypiu_php_practicals/tree/main/assignment_3)|
 |Assignment 4|[Link](https://github.com/tanmayvaij/dypiu_php_practicals/tree/main/assignment_4)|
 |Assignment 5|[Link](https://github.com/tanmayvaij/dypiu_php_practicals/tree/main/assignment_5)|
+|Assignment 6|[Link](https://github.com/tanmayvaij/dypiu_php_practicals/tree/main/assignment_6)|
