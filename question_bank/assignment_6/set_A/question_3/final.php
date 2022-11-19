@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            font-style: <?php echo $_COOKIE["style"] ?>;
+            font-size: <?php echo $_COOKIE["size"]."px" ?>;
+            color: <?php echo $_COOKIE["color"] ?>;
+            background-color: <?php echo $_COOKIE["bg-color"] ?>;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        Hello World
+    </div>
+</body>
+</html>
